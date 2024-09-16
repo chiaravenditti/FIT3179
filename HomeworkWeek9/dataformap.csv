@@ -1,4 +1,4 @@
-Cancer;Year;Sex;State;Number;Age-standardised rate (per 100,000) 
+Cancer;Year;Sex;State;Number;Rate 
 Melanoma;2020-2023;Persons;New South Wales;929;2,1
 Melanoma;2020-2023;Persons;Victoria;649;1,9
 Melanoma;2020-2023;Persons;Queensland;672;2,5
